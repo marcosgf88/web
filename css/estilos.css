@@ -4,7 +4,8 @@ body{
     width: 100%;
 }
 header {
-    background-color: #206187;    
+    background-color: #206187; 
+    overflow: hidden;   
     width: 100%;
     height: 100%;     
 }  
