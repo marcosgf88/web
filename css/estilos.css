@@ -25,6 +25,10 @@ h2{
 h3{
     font-size: 25px;
 }
+h4{
+    background-color: #cbdf53;
+    display: inline;
+}
 a{
     text-decoration: none;
     color: black;
@@ -55,6 +59,9 @@ li{
     display: inline;    
     margin-left: 20px;
     font-weight: 800;
+}
+span{
+    color: darkcyan;
 }
 video{
     width: 100%;
@@ -158,4 +165,52 @@ tr{
 }
 #div_tabla{
     padding-left: 220px;
+}
+#div_programacion{
+    background-color: #d8eec4;
+    overflow: hidden;
+    padding-bottom: 50px;
+
+}
+#div_3abril{
+    float: left;
+    padding-left: 300px;
+
+}
+#div_4abril{
+    float: left;
+
+}
+form{
+    padding-left: 150px;
+}
+#div_perfil{
+    background-color: #d8eec4;
+    padding-bottom: 25px;
+}
+#div_checkbox{
+    text-align: center;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 150px;
+    padding-right: 60px;
+    padding-bottom: 25px;    
+}
+#boton{
+    
+    font-size:15px;
+    font-weight:bold;
+    color:white;
+    background-color: #B7D313;
+    border:0px;
+    width:100px;
+    height:25px;
+}
+#div_boton{
+    padding-left: 45%;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+input:valid{
+    border-color: #B7D313;
 }
